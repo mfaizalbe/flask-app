@@ -3,7 +3,7 @@
 
 ## 📌 Overview
 
-This project demonstrates the development of a simple Python Flask web application that displays a personalised greeting message in the browser.
+A simple Python Flask web application that displays a personalised greeting message in the browser.
 
 The objective of this project was to understand:
 
