@@ -99,3 +99,7 @@ This project strengthened my understanding of:
 - Local development environments
 - Git-based version control
 - Introductory cloud deployment concepts
+---
+
+## 🙏 Acknowledgements
+[NTU SCTP - Coaching 2: Building a Python Flask Application](https://docs.google.com/document/d/1ZZJ72f_YxlDUN2dejZJu2cfU8JYwn6xKuTY1eGN6Dtw)
