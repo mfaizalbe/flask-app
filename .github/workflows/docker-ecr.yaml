@@ -11,7 +11,7 @@ jobs:
 
     env:
       AWS_REGION: ap-southeast-1
-      ECR_REPOSITORY: flask-app
+      ECR_REPOSITORY: faizal-flask-private-repository
 
     steps:
       # checkout repository
